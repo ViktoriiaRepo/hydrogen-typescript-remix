@@ -4,3 +4,16 @@
  */
 
 @import 'tailwindcss';
+/* === BRAND COLORS === */
+@theme {
+  --color-brand-navy:  #1A2A3A;
+  --color-brand-cream: #F5F2EA;
+  --color-brand-gold:  #C3A343;
+  --color-brand-gray:  #8C8C8C;
+}
+
+
+
+
+
+
